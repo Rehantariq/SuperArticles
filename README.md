@@ -1,6 +1,6 @@
 # SuperArticles
 <p align="center">
-<img src='' />
+<img src='https://github.com/Rehantariq/SuperArticles/blob/master/SuperArticles/Screenshot.png' />
 </p>
 
 ## Support 
